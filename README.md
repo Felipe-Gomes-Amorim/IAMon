@@ -48,13 +48,13 @@ Os parâmetros que podem ser modificados para obter diferentes resultados são: 
 - [Felipe](https://github.com/Felipe-Gomes-Amorim)
 - [Guilherme]()
 - [Herny](https://github.com/HenryGeraldes)
-- [Márcio]()
+- [Márcio](https://github.com/MarcioPAraujo)
 ### 2. Documentação do Código.
 - [Henry](https://github.com/HenryGeraldes)
 
 ### 3. Documentação Geral.
-- [Camylla]()
-- [Gustavo]()
+- [Camylla](https://github.com/CamyllaTahara)
+- [Gustavo](https://github.com/40901)
 - [Murilo]()
 - [Henry](https://github.com/HenryGeraldes)
 - [Felipe](https://github.com/Felipe-Gomes-Amorim)
