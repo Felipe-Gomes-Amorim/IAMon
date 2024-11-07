@@ -11,7 +11,7 @@ indíviduos criados manualmente. Para isso, foi usado um dataset da Franquia Pok
 Foi feito uma página no trello documentando o processo do projeto.
 
 ### 2. Documentação
-- [Resumo Extendido]()
+- [Resumo Expandido Estruturado](https://github.com/Felipe-Gomes-Amorim/Pokedex/blob/main/IAmon%20-%20Um%20Modelo%20SVM%20para%20Classificação%20de%20Pokémons%20Comuns%2C%20Lendários%2C%20Sub-lendários%20e%20Míticos%20(1).docx)
 
 
 ## Metodologia
